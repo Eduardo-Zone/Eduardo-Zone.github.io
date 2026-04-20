@@ -1,3 +1,24 @@
+This is Cameron Maynor's personal website for professional and personal use.
+The purpose is to display professional work such as projects, professional development,
+and other computer-science or professional-related content.
+
+I am the #1 Cowboy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:HTML5 UP Tag:
+------------------------------------------------------------------------------------
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
